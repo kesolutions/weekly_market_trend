@@ -31,7 +31,8 @@
 | Remote Work Statistics      | Stacked Bar Chart (by Job Category) | Percentage of remote jobs, Trends in remote hiring   | Work Statistics - past 7 days   |
 | Average Salary              | Line/Bar Chart               | Average Salary for top Job Titles                              | Average Salary                        |
 | Top Three Recent News Updates | List                        | Show the new updated job news, click to go to the webpage     | Top 3 fresh news titles               |
-| Most Trending Topics        | Word Cloud                   | Top news keywords in the past 30 days                         | Hot title words                      |
+| Most Trending Topics        | Word Cloud                   | Top news keywords in the past 30 days                         | News_title_keywords
+                     |
 
 
 **Data Cleaning:**
