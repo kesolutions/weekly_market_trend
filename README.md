@@ -31,8 +31,9 @@
 | Remote Work Statistics      | Stacked Bar Chart (by Job Category) | Percentage of remote jobs, Trends in remote hiring   | Work Statistics - past 7 days   |
 | Average Salary              | Line/Bar Chart               | Average Salary for top Job Titles                              | Average Salary                        |
 | Top Three Recent News Updates | List                        | Show the new updated job news, click to go to the webpage     | Top 3 fresh news titles               |
-| Most Trending Topics        | Word Cloud                   | Top news keywords in the past 30 days                         | News_title_keywords
-                     |
+| Most Trending Topics        | Word Cloud                   | Top news keywords in the past 30 days                         | News_title_keywords    |  
+| Positive News Occupation        | Big Number                | Postive news occupation percentage in past 30 days      | pos_percentage    |
+
 
 
 **Data Cleaning:**
@@ -41,12 +42,18 @@
    - Removing HTML tags that may have crept into the text.
    - Eliminating special characters and digits that could distort the analysis.
 
-**Natural Language Processing:**
-In the realm of Natural Language Processing (NLP), we leverage Python to methodically prepare data pertaining to trending news keywords from the last 30 days. This comprehensive preparation encompasses the following key steps:
-1. Tokenization: Breaking down the text into individual words, enabling further analysis at the word level.
-2. Lemmatization: Ensuring words are reduced to their base or root form, enhancing text coherence.
-3. Word Frequency Count: Calculating the frequency of each word to identify the most prominent keywords.
-4. Stopword Removal: Eliminating common and insignificant words that do not contribute meaningfully to the analysis, ensuring a focus on the most relevant keywords.
+**Natural Language Processing (NLP) Analysis:**
+In the domain of Natural Language Processing (NLP), we harness the capabilities of Python to meticulously prepare data pertaining to trending news keywords from the previous 30 days. This meticulous preparation encompasses a series of critical steps:
 
-These detailed processes empower us to generate a word cloud representing the most significant hot news keywords, offering valuable insights into recent trends and topics.
+1. **Tokenization:** The process of breaking down text into individual words, facilitating further analysis at the word level.
+
+2. **Lemmatization:** Ensuring that words are transformed into their base or root form, thereby enhancing text coherence and semantic consistency.
+
+3. **Word Frequency Count:** Calculation of the frequency of each word, enabling the identification of the most prominent and impactful keywords within the dataset.
+
+4. **Stopword Removal:** Pruning common and inconsequential words from the dataset, eliminating noise, and enabling a sharper focus on the most meaningful and relevant keywords.
+
+5. **Sentiment Analysis:** The application of sentiment analysis techniques to classify news articles as positive or negative based on their descriptions.
+
+These meticulous processes collectively empower us to generate a word cloud visualization that encapsulates the most significant and influential hot news keywords. This provides valuable insights into emerging trends and topical discussions, contributing to a deeper understanding of recent developments.
 
