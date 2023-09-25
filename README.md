@@ -13,8 +13,8 @@
 1. `Indeed_jobs`: A rich source of job postings data that enables us to track job market trends and job descriptions.
 
 2. `weekly-market-trend.test.news2026`: This source provides valuable news data that can be correlated with job market trends.
+<img width="609" alt="Screenshot 2023-09-24 at 20 53 45" src="https://github.com/kesolutions/weekly_market_trend/assets/116053082/39067617-43b2-4234-a403-72079e649f62">
 
-![Data Sources Diagram](https://github.com/kesolutions/weekly_market_trend/assets/116053082/8c2b33df-e7fb-4fe9-a1e1-cafbce26d0c7)
 
 **Key Metrics:**
 
