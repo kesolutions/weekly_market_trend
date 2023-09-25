@@ -3,8 +3,12 @@
 **Objective:** The primary objective of this project is to provide real-time job market insights for the Canadian job market.
 
 **Approach:** We achieve this by retrieving and analyzing data from BigQuery using SQL queries and presenting our findings through Looker Studio dashboards. This ensures that stakeholders have access to timely and actionable information.
+<div align="center">
+  <img src="https://github.com/kesolutions/weekly_market_trend/assets/116053082/d548f4d5-768f-4939-a1be-f5574745e541" alt="Screenshot 2023-09-24 at 20 57 55" width="380" >
+</div>
 
-![Project Diagram](https://github.com/kesolutions/weekly_market_trend/assets/116053082/56dca3c5-0711-4cb9-8e84-2e3404c7fa5e)
+
+
 
 **Scope:** Our project encompasses tracking various aspects of the job market, including new job postings, popular titles, weekly trends, job descriptions (skills), news sources, new jobs by city, jobs in specific categories, skilled immigrants, recent layoffs, and recent expansion plans.
 
@@ -13,14 +17,17 @@
 1. `Indeed_jobs`: A rich source of job postings data that enables us to track job market trends and job descriptions.
 
 2. `weekly-market-trend.test.news2026`: This source provides valuable news data that can be correlated with job market trends.
-<img width="609" alt="Screenshot 2023-09-24 at 20 53 45" src="https://github.com/kesolutions/weekly_market_trend/assets/116053082/39067617-43b2-4234-a403-72079e649f62">
+<div align="center">
+  <img src="https://github.com/kesolutions/weekly_market_trend/assets/116053082/39067617-43b2-4234-a403-72079e649f62" alt="Screenshot 2023-09-24 at 20:53:45" width="609">
+</div>
+
 
 
 **Key Metrics:**
 
 
-| Chart Title                  | Chart Type                   | KPIs Included                                                   | Retrieved Tables                     |
-|-----------------------------|------------------------------|----------------------------------------------------------------|--------------------------------------|
+| Chart Title                  | Chart Type                   | KPIs Included                                              | Retrieved Tables                |
+|-----------------------------|------------------------------|-----------------------------------------------------------|---------------------------------|
 | New Jobs Posted Today       | Big Number with Trend        | Total new jobs, Daily postings, Monthly postings              | Daily job post, previous_dailyJob ,monthly job post previous_monthly |
 | New Jobs posted by City     | Bar Chart                    | Number of new jobs posted for Toronto, Montreal, Calgary, and Vancouver | New Jobs posted by City               |
 | Popular Job Titles          | Bar Chart                    | Top 10 job titles, Percentage of total postings               | Popular Job Titles                    |
