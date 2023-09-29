@@ -43,7 +43,7 @@
 
 
 **Data Cleaning:**
-1. In the data cleaning phase, we meticulously process the "news2026" news title columns to enhance data quality. This process includes:
+In the data cleaning phase, we meticulously process the "news2026" news title columns to enhance data quality. This process includes:
    - Converting all text to lowercase to ensure consistency.
    - Removing HTML tags that may have crept into the text.
    - Eliminating special characters and digits that could distort the analysis.
