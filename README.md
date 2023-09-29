@@ -32,7 +32,6 @@
 | New Jobs posted by City     | Bar Chart                    | Number of new jobs posted for Toronto, Montreal, Calgary, and Vancouver | New Jobs posted by City               |
 | Popular Job Titles          | Bar Chart                    | Top 10 job titles, Percentage of total postings               | Popular Job Titles                    |
 | Weekly Job Posting Trend    | Line Chart                   | Jobs posted in the past 7 days, Trend comparison with previous 7 days | Weekly Job Posting Trend              |
-| Job Descriptions & Skills   | Word Cloud/Bar               | Top skills required, Most demanding skills, Skill categories  | XXXXX                                |
 | Unemployment Rate           | Line Chart                   | National unemployment rate, State/Province unemployment rate  | Unemployment_for_dashboard            |
 | Industry Hiring Trends      | Stacked Bar Chart            | Hiring trends in key industries like tech, healthcare, etc.   | Industry Hiring Trends -past 7 days   |
 | Remote Work Statistics      | Stacked Bar Chart (by Job Category) | Percentage of remote jobs, Trends in remote hiring   | Work Statistics - past 7 days   |
