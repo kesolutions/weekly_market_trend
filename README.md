@@ -64,4 +64,4 @@ In the domain of Natural Language Processing (NLP), we harness the capabilities 
 These meticulous processes collectively empower us to generate a word cloud visualization that encapsulates the most significant and influential hot news keywords. This provides valuable insights into emerging trends and topical discussions, contributing to a deeper understanding of recent developments.
 
 
-**Looker Studio Visulization Dashboard:** https://lookerstudio.google.com/u/0/reporting/9d201f82-efd2-4023-a04f-f9ff8a72f574/page/p_br8dhxfc9c
+
